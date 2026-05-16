@@ -1,0 +1,3 @@
+https://github.com/BetterDCS/Better_ModManager_ServerBrowse 
+https://github.com/BetterDCS/BMM_Contributors
+https://github.com/FreeProject089/BetterModsManager/tree/Tdev
