@@ -84,14 +84,9 @@ Unlike traditional managers that rely on unstable symlinks or hardlinks, BMM use
    npm run build
    ```
 
-## Documentation
-- [User Guide & Features](Update/Documentation/App_Features_EN.md)
-- [Technical Architecture](Update/Documentation/Technical_Analysis_EN.md)
-- [Latest Changelog (EN)](Update/Updates/changelog_since_7e839e_EN.md) | [Changelog (FR)](Update/Updates/changelog_since_7e839e_FR.md)
 
 ## License
-This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. See the [LICENSE.md](LICENSE.md) file for details.
-
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. 
 ---
 <p align="center">
   Built with passion for the Modding Community
